@@ -6,7 +6,7 @@ Comparez ces deux algorithmes pour analyser leurs performances et leur efficacit
 ---
 
 Fonctionnalités  
- Génération et affichage d’un labyrinthe** (aléatoire ou chargé depuis un fichier)  
+ Génération et affichage d’un labyrinthe (aléatoire ou chargé depuis un fichier)  
  Résolution avec DFS et BFS
  Interface graphique (Swing) pour visualiser la solution 
  Affichage des performances (temps d’exécution et nœuds explorés)
@@ -15,7 +15,6 @@ Fonctionnalités
 
  Structure du projet  
 
-bash
  Labyrinthe-Solver
 ├── 📁 src
 │   ├── Labyrinthe.java         # Gestion du labyrinthe
