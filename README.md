@@ -9,20 +9,20 @@ Fonctionnalités
  Génération et affichage d’un labyrinthe (aléatoire ou chargé depuis un fichier)  
  Résolution avec DFS et BFS
  Interface graphique (Swing) pour visualiser la solution 
- Affichage des performances (temps d’exécution et nœuds explorés)
+ Affichage des performances (temps d’exécution)
 
 ---
 
  Structure du projet  
 
  Labyrinthe-Solver
-├── 📁 src
+├──src
 │   ├── Labyrinthe.java         # Gestion du labyrinthe
 │   ├── LabyrintheGUI.java      # Interface graphique en Swing
 │   ├── SolveurDFS.java         # Algorithme DFS
 │   ├── SolveurBFS.java         # Algorithme BFS
 │   ├── LabyrintheGenerateur.java # Génération dynamique de labyrinthes
 │   ├── Main.java               # Programme principal
-├── 📁 ressources
+├──ressources
 │   ├── labyrinthe.txt          # Exemple de labyrinthe en format texte
 ├── README.md                   # Documentation du projet
